@@ -26,6 +26,12 @@ El sistema permite identificar y marcar regiones con movimiento en secuencias de
    ```bash
    pip install opencv-python
 
+
 ## RESULTADOS
-Flujo optico
-https://github.com/user-attachments/assets/8763057c-441c-4c17-b697-ed264b08c590
+### Flujo optico
+![OpticalFlow](https://github.com/user-attachments/assets/684b1580-6587-436a-9659-a20f2ac6bfba)
+
+
+### Redes Neuronales
+![NN](https://github.com/user-attachments/assets/a7453741-21a9-40ca-886d-36edb3eaf2b4)
+
