@@ -19,11 +19,6 @@ El sistema permite identificar y marcar regiones con movimiento en secuencias de
 - OpenCV (`cv2`)
 - Jupyter Notebook
 
-## 🚀 Ejecución
-
-   ```bash
-   pip install opencv-python
-
 
 ## RESULTADOS
 ### Flujo optico
