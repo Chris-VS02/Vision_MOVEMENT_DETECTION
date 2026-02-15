@@ -21,8 +21,6 @@ El sistema permite identificar y marcar regiones con movimiento en secuencias de
 
 ## 🚀 Ejecución
 
-1. Asegúrate de tener Python y OpenCV instalados. Puedes instalar OpenCV con:
-
    ```bash
    pip install opencv-python
 
